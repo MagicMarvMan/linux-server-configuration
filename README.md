@@ -14,4 +14,4 @@
 I just added the WSGI-Settings to the ```Apache 000-default.conf```, added the ```psql```-Settings to my application and installed ```fail2ban```.
 
 ## Third-Party resources
-I think, I only used resources from the (#installed-software)[Ubuntu-Sources] and OAuth-Providers (_Facebook_, _Google_ and _GitHub_)
+I think, I only used resources from the _Installed software_ and OAuth-Providers (_Facebook_, _Google_ and _GitHub_)
