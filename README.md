@@ -1,6 +1,7 @@
 # Linux Server Configuration
 ## General
 - **IP:** ```18.194.144.83```
+- **SSH-Port**: ```2200```
 - **Web-Application (reachable only under this url, since the OAuth services would not work with a pure IP):** [http://catalog.marvnet.de](http://catalog.marvnet.de) (pointing to my Lightsail instance)
 
 ## Installed software
